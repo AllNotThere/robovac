@@ -5,6 +5,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.0-beta.1](https://github.com/damacus/robovac/compare/v2.2.1-beta.1...v2.3.0-beta.1) (2026-03-24)
+
+
+### Features
+
+* Optimize token generation ([#389](https://github.com/damacus/robovac/issues/389)) ([327140c](https://github.com/damacus/robovac/commit/327140c796cffb178cd801e6fbc00d9628a1ad79))
+
+## [2.2.1-beta.1](https://github.com/damacus/robovac/compare/v2.2.0-beta.1...v2.2.1-beta.1) (2026-03-03)
+
+
+### Bug Fixes
+
+* **sensor:** properly resolve model-specific battery dps code ([#362](https://github.com/damacus/robovac/issues/362)) ([3ede55c](https://github.com/damacus/robovac/commit/3ede55cb1035c4eef94168e3a3297a349828b8c5))
+* some models stuck on status "cleaning" when docked and fully charged ([#351](https://github.com/damacus/robovac/issues/351)) ([c2f4cd4](https://github.com/damacus/robovac/commit/c2f4cd4bf1db9ffc8d63a645a849ddbdaa8ff26c))
+
+## [2.2.0-beta.1](https://github.com/damacus/robovac/compare/v2.1.0-beta.1...v2.2.0-beta.1) (2026-02-17)
+
+
+### Features
+
+* **T2276:** Add Eufy T2276 (X8 Pro SES) model support ([#341](https://github.com/damacus/robovac/issues/341)) ([eaa7040](https://github.com/damacus/robovac/commit/eaa7040c6eb6d9fc4c88321d0d8e4655e25f7d7b))
+
 ## [2.1.0-beta.1](https://github.com/damacus/robovac/compare/v2.0.1-beta.1...v2.1.0-beta.1) (2026-02-11)
 
 
